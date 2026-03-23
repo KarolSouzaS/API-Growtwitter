@@ -11,8 +11,8 @@ paths:
               type: object
               required: [name, username, password]
               properties:
-                name: { type: string, example: "Daniele Santos" }
-                username: { type: string, example: "daniele_dev" }
+                name: { type: string, example: "Karol Souza" }
+                username: { type: string, example: "Karol_souza" }
                 password: { type: string, example: "senha123" }
       responses:
         201:
